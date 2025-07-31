@@ -3,9 +3,7 @@ UTTS - unix timestamp to string
 
 ### build
 
-```
-odin build .
-```
+Compile main.cpp using `-std=c++23` flag.
 
 ### usage
 
