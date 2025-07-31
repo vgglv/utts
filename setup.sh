@@ -1,3 +1,3 @@
 #!/bin/bash
 
-clang++ --std=c++23 main.cpp -o utts
+clang main.c -o utts
